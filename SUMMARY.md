@@ -8,6 +8,6 @@
 
 * [TS](ts/index.md)
     * [General](ts/general.md)
-* [TSF](tsf.md)
+* [TSF](ts/tsf.md)
 * [SSB](ssb/index.md)
     * [Notice](ssb/notice.md)
