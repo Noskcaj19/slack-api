@@ -2,8 +2,12 @@
 
 ## Overview
 
-* [My Awesome API](README.md)
+* [Slack Client API](README.md)
 
-## Methods
+## API
 
-* [Defining Methods](methods.md)
+* [TS](ts/index.md)
+    * [General](ts/general.md)
+* [TSF](tsf.md)
+* [SSB](ssb/index.md)
+    * [Notice](ssb/notice.md)

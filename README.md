@@ -1,3 +1,8 @@
-# My Awesome API
+# Slack Client API
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+This is unofficial documentation of Slacks internal client api.
+
+This is intended for use with [Slack Mods](https://github.com/Noskcaj19/slack-mods) as well as general research.
+
+This is mostly guess work from looking at source code.
+
